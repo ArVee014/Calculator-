@@ -7,3 +7,4 @@ June 30 -- Calculator version 1 finished
       problems that needs fixing:
   $ decimal accuracy
   $ types of syntax error
+  $ buttons' design
